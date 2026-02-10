@@ -1,0 +1,5 @@
+{
+  "name": "B-Day Roast & Toast",
+  "description": "A fun and witty birthday card generator that creates personalized, funny messages based on a person's name, age, and hobby using the Gemini API.",
+  "requestFramePermissions": []
+}
